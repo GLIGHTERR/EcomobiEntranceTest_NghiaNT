@@ -1,10 +1,10 @@
 - Bài 1: 
-+ src: Thư mục chứa mã nguồn:
-  *: setSimulator:
-    **: Set.java: Main class
++ src: Thư mục chứa mã nguồn
+  * setSimulator
+    ** Set.java: Main class
 - Bài 2:
-+ src: Thư mục chứa mã nguồn:
-  *: sumFibonacci:
++ src: Thư mục chứa mã nguồn
+  *: sumFibonacci
     **: SumOddFibonacci.java: Main class
 - Bài 3:
 + src: Thư mục chứa mã nguồn
