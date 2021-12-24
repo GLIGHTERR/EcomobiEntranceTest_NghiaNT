@@ -1,7 +1,7 @@
 - Bài 1: 
 + src: Thư mục chứa mã nguồn
   * setSimulator
-    ** Set.java: Main class
+    *** Set.java: Main class
 - Bài 2:
 + src: Thư mục chứa mã nguồn
   *: sumFibonacci
